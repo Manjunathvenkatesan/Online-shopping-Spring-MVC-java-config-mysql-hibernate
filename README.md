@@ -65,3 +65,6 @@ This a Online shopping system demo web application  for 3rd year 1st semester pr
 
 ![15](https://user-images.githubusercontent.com/14239078/33281302-ec29ebc2-d3ce-11e7-8a66-a94fbd100f6d.PNG)
 
+# ER Diagram
+
+![er](https://user-images.githubusercontent.com/14239078/33282550-3029988c-d3d3-11e7-9eee-73f61d31488a.png)
